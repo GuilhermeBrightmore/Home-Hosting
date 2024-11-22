@@ -52,11 +52,8 @@ Esta aplicação Python baseada no framework Flask permite criar, gerenciar e co
   ```
 
 ### Passos
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/GuilhermeBrightmore/Home-Hosting.git
-   cd gerenciador-de-bots
-   ```
+1. Baixe a versão windows ou linux
+  
 2. Execute a aplicação:
    ```bash
    python app.py
